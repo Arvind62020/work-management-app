@@ -1,0 +1,17 @@
+
+
+
+npm init -y      
+npm i express 
+npm uninstall  @babel/plugin-transform-react-jsx     
+npm i @babel/plugin-transform-modules-commonjs@7.26.3
+npm i bcrypt
+npm i dotenv
+npm i express-rate-limit@7.4.1
+npm i ip        
+npm i jsonwebtoken 
+npm i mongoose   
+npm i nodemon   
+npm i swagger-jsdoc 
+npm i swagger-ui-express
+npm i zod@3.23.8
